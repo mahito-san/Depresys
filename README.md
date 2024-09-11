@@ -12,7 +12,7 @@ The impact of these issues can lead to physical health problems,
 addiction, and suicide. Increasing awareness and access to mental
 health services is vital to address these concerns. This paper’s
 primary focus is to explore achieving a sense of well-being
-through Human-Computer Interaction (HCI). A high-fidelity
+through Human-Computer Interaction (HCI). A low-fidelity
 prototype of a chat application named DEPRESYS has been
 developed to demonstrate how the system will work, offering real-
 time analysis of mental health conditions based on Bangla text
